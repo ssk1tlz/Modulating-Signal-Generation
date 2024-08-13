@@ -2,6 +2,8 @@
 
 This project is a signal modulation visualization tool built using Python. It allows users to generate and visualize modulated signals by adjusting various parameters such as the amplitude and frequency of the carrier and modulating signals, as well as the duration of the signal.
 
+![image](https://github.com/user-attachments/assets/e90cc3c7-2ae6-47b0-8b14-68eee144ba52)
+
 ## Features
 
 - **Signal Generation:**
